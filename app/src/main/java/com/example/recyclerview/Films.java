@@ -12,6 +12,18 @@ public class Films {
         this.img = img;
     }
 
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public void setYear(String year) {
+        this.year = year;
+    }
+
+    public void setImg(int img) {
+        this.img = img;
+    }
+
     public String getName() {
         return name;
     }

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string name="T1">Public Enemies</string>
+    <string name="t1">2009</string>
+    <string name="T2">Kung Fu Panda</string>
+    <string name="t2">2008</string>
+    <string name="T3">Notebook</string>
+    <string name="t3">2004</string>
+    <string name="T4">Pride and Prejudice</string>
+    <string name="t4">2005</string>
+    <string name="T5">The Best of Me</string>
+    <string name="t5">2014</string>
+    <string name="T6">Just Go with It</string>
+    <string name="t6">2011</string>
+    <string name="T7">Longest Yard</string>
+    <string name="t7">2005</string>
+    <string name="T8">The Boy, the Mole, the Fox and the Horse</string>
+    <string name="t8">2022</string>
+    <string name="T9">Grown Ups</string>
+    <string name="t9">2010</string>
+    <string name="T10">Click</string>
+    <string name="t10">2006</string>
+
+    <string-array name="names">
+        <item>Public Enemies</item>
+        <item>Kung Fu Panda</item>
+        <item>Notebook</item>
+        <item>Pride and Prejudice</item>
+        <item>The Best of Me</item>
+        <item>Just Go with It</item>
+        <item>Longest Yard</item>
+        <item>The Boy, the Mole, the Fox and the Horse</item>
+        <item>Grown Ups</item>
+        <item>Click</item>
+    </string-array>
+
+    <string-array name="years">
+        <item>2009</item>
+        <item>2008</item>
+        <item>2004</item>
+        <item>2005</item>
+        <item>2014</item>
+        <item>2011</item>
+        <item>2005</item>
+        <item>2022</item>
+        <item>2010</item>
+        <item>2006</item>
+
+    </string-array>
+
+
+
+
+</resources>
