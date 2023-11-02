@@ -21,7 +21,8 @@ public class MyAdapter extends RecyclerView.Adapter<MyViewHolder>{
     @NonNull
     @Override
     public MyViewHolder onCreateViewHolder(@NonNull ViewGroup parent, int viewType) {
-        return new MyViewHolder(LayoutInflater.from(context).inflate(R.layout.film_view, parent,false));
+        MyViewHolder view = new MyViewHolder(LayoutInflater.from(context).inflate(R.layout.film_view, parent,false));
+        return view;
     }
 
     @Override
